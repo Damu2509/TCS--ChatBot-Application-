@@ -93,8 +93,8 @@ try:
 
 
 except Exception as e:
-    print(e)
     print("This falls under exception block")
+    print(e)
 
 
 def bag_of_words(s, words):
